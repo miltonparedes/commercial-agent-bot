@@ -9,7 +9,6 @@
 .coverage*
 !.coveragerc
 .local/
-data/
 .mypy_cache/
 .pytest_cache/
 .python_history
